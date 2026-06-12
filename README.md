@@ -49,3 +49,23 @@ print("Division :", div)
 
 
 
+Q3 - Display Name and Next Year's Age
+
+Write a program to accept the user's name and age and display:
+"Hello <Name>, you will turn <Age+1> next year"
+
+
+## Program
+
+```python
+name = input("Enter your name : ")
+age = int(input("Enter your age : "))
+
+print("Hello", name + ", you will turn", age + 1, "next year")
+```
+
+#OUTPUT:-
+
+<img width="460" height="74" alt="Screenshot 2026-06-13 034049" src="https://github.com/user-attachments/assets/8a9f91b7-58cb-4f8f-ac4b-6207023713a0" />
+
+
